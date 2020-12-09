@@ -15,3 +15,9 @@ This repository contains deployment of a deep learning based model, capable of d
 
 # Procedures
 Clone or download this repository. Install all the requirements. Run "app.py" file using comman "python app.py". Then go to the link " http://127.0.0.1:5000/"
+
+# Update some depencencies(see requirements),use python 3.7.4
+1.flask_uploads.py  cannot import name 'secure_filename' from 'werkzeug'
+refs:https://blog.csdn.net/sinat_28521487/article/details/105727870
+
+

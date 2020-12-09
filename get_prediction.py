@@ -12,7 +12,7 @@ from keras.models import Sequential
 from keras.models import model_from_json
 import tensorflow as tf
 from tensorflow.keras import datasets, layers, models
-from tensorflow.contrib.keras.api.keras.models import Sequential
+#from tensorflow.contrib.keras.api.keras.models import Sequential
 from tensorflow.keras.models import load_model
 
 import pickle
